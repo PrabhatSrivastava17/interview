@@ -82,7 +82,7 @@ E2E flow**\
 **63. Availability set vs availability zone**
 
 Persistent\
-\
+
 Interviewer: Vinita Gupta
 
 1.  Write Terraform code for 1 VNet with 10 subnets (without using
